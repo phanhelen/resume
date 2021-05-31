@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: HelenPhan
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://helenphan.tk/
+Author: helenphan.tk/
+License: https://helenphan.tk/
